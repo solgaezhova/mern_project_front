@@ -15,7 +15,7 @@ o	Project features:
 - File uploading
 - Authentication (JWT token)
 
-o	Source code(server): 
+o	Source code(backend): https://github.com/solgaezhova/mern_project_back
 
 
 
