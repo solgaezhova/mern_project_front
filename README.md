@@ -17,5 +17,5 @@ o	Project features:
 
 o	Source code(backend): https://github.com/solgaezhova/mern_project_back
 
-
+o	App in web: https://mern-project-1eab7.web.app/
 
